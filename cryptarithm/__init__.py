@@ -1,0 +1,1 @@
+from cryptarithm.cryptarithm import *
