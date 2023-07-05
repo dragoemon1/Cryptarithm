@@ -1,3 +1,15 @@
+Metadata-Version: 2.1
+Name: cryptarithm
+Version: 0.1
+Summary: make cryptarithm in python
+Home-page: https://github.com/dragoemon1/cryptarithm
+Author: dragoemon
+Author-email: dragoemon32@gmail.com
+Classifier: Programming Language :: Python :: 3.11
+Classifier: License :: OSI Approved :: MIT License
+Classifier: Operating System :: OS Independent
+Description-Content-Type: text/markdown
+
 #  Cryptarithm
 
 指定した形の虫食い算の問題を生成するPythonモジュールです．作問や問題の検証に使ってください．
