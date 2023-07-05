@@ -18,9 +18,9 @@
 
 2. **cryptarithmのインストール**
    
-   PyPIに登録するか迷いましたが，今のところはしてないので，次のコマンドでインストールしてください．
+   pipでインストールできます．
     ```zsh
-    ~ % pip install git+https://github.com/dragoemon1/cryptarithm
+    ~ % pip install cryptarithm
     ```
 
 3. **実行**
